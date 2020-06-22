@@ -9,3 +9,9 @@
     --otherBrown: #3b270c;
     --green: #627059;
 }
+
+.footer {
+    background-color: #f8f9fa;
+    color: rgba(0, 0, 0, 0.5);
+}
+

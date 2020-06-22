@@ -4,10 +4,27 @@
     --cream: #ffffea;
     --sand: #dad49c;
     --earth: #88835f;
-    --otherEarth: #8c7a5f;
+    --bread: #8c7a5f;
     --brown: #51412d;
     --otherBrown: #3b270c;
     --green: #627059;
+}
+
+.home-banner-text-div {
+    z-index: 2;
+}
+
+.home-banner-text {
+    background-color: var(--beige);
+    color: var(--bread);
+}
+
+.home-banner-img {
+    background-image: url(../img/kneading-bw-800x600.jpg);
+    background-position: right;
+    background-size: cover;
+    height: 40vh;
+    min-height: 400px;
 }
 
 .footer {

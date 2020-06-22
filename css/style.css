@@ -1,0 +1,11 @@
+/* Defining global scope CSS variables */
+:root {
+    --beige: #fffff9;
+    --cream: #ffffea;
+    --sand: #dad49c;
+    --earth: #88835f;
+    --otherEarth: #8c7a5f;
+    --brown: #51412d;
+    --otherBrown: #3b270c;
+    --green: #627059;
+}

@@ -39,7 +39,7 @@
 .menu-img {
     background-repeat: no-repeat;
     background-size: cover;
-    max-height: 1080px;
+    min-height: 200px;
     color: white;
 }
 

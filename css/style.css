@@ -36,6 +36,34 @@
     color: rgba(0, 0, 0, 0.5);
 }
 
+.menu-img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 1080px;
+    color: white;
+}
+
+.menu-text {
+    background-color: var(--green);
+    max-height: 1080px;
+    color: white;
+}
+
+.menu-img-1 {
+    background-image: url(../img/bread-selection-800x534.jpg);
+    background-position: bottom;
+}
+
+.menu-img-2 {
+    background-image: url(../img/muffins-basket-800x1200.jpg);
+    background-position: right;
+}
+
+.menu-img-3 {
+    background-image: url(../img/latte-800x533.jpg);
+    background-position: center;
+}
+
 .find-us {
     min-height: 75vh;
 }

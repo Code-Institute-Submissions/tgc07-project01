@@ -32,15 +32,18 @@
     color: rgba(0, 0, 0, 0.5);
 }
 
+.find-us {
+    min-height: 75vh;
+}
+
 .find-us-1 {
     background-image: url("../img/leaf-loaf-720x1080.jpg");
     background-repeat: no-repeat;
-    min-height: 80vh;
     max-height: 1080px;
+    color: white;
 }
 
 .find-us-2 {
     background-color: var(--beige);
-    min-height: 80vh;
     max-height: 1080px;
 }

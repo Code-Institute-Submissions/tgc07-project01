@@ -62,8 +62,8 @@
 }
 
 .about-r1-c2 {
-    background-color: var(--green);
-    color: white;
+    background-color: var(--beige);
+    color: var(--bread);
 }
 
 .about-r2-c1 {
@@ -75,6 +75,6 @@
 }
 
 .about-r2-c2 {
-    background-color: var(--green);
-    color: white;
+    background-color: var(--beige);
+    color: var(--bread);
 }

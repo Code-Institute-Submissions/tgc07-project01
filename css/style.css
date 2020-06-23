@@ -7,7 +7,7 @@
     --bread: #8c7a5f;
     --brown: #51412d;
     --otherBrown: #3b270c;
-    --green: #627059;
+    --green: #77866d;
 }
 
 .logo {
@@ -43,6 +43,7 @@
 .find-us-1 {
     background-image: url("../img/leaf-loaf-720x1080.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
     max-height: 1080px;
     color: white;
 }
@@ -50,4 +51,30 @@
 .find-us-2 {
     background-color: var(--beige);
     max-height: 1080px;
+}
+
+.about-r1-c1 {
+    background-image: url("../img/bread-crop.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 40vh;
+}
+
+.about-r1-c2 {
+    background-color: var(--green);
+    color: white;
+}
+
+.about-r2-c1 {
+    background-image: url("../img/croissant-900x720.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 40vh;
+}
+
+.about-r2-c2 {
+    background-color: var(--green);
+    color: white;
 }

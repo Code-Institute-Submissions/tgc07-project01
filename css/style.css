@@ -44,10 +44,14 @@
     color: white;
 }
 
-.menu-text {
+.menu-text-col {
     background-color: var(--green);
     max-height: 1080px;
     color: white;
+}
+
+.menu-text {
+    margin: 1rem 6px -6px 6px;
 }
 
 .menu-img-1 {
@@ -63,6 +67,10 @@
 .menu-img-3 {
     background-image: url(../img/latte-800x533.jpg);
     background-position: center;
+}
+
+.menu-filler {
+    border-bottom: solid white 1px;
 }
 
 .find-us {

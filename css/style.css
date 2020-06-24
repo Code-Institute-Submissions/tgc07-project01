@@ -113,8 +113,8 @@
 }
 
 .about-r1-c2 {
-    background-color: var(--beige);
-    color: var(--bread);
+    background-color: var(--almond);
+    color: var(--otherBrown);
 }
 
 .about-r2-c1 {
@@ -126,6 +126,6 @@
 }
 
 .about-r2-c2 {
-    background-color: var(--beige);
-    color: var(--bread);
+    background-color: var(--almond);
+    color: var(--otherBrown);
 }

@@ -11,17 +11,26 @@
     --green: #77866d;
 }
 
+.text-1 {
+    background-color: #f8f9fa;
+    /* color: var(--otherBrown); */
+}
+
+.text-2 {
+    background-color: var(--almond);
+    color: var(--otherBrown);
+}
+
 .logo {
     max-height: 60px;
 }
 
-.home-banner-text-div {
-    z-index: 2;
+.home-banner {
+    background-color: var(--bread);
 }
 
-.home-banner-text {
-    background-color: var(--beige);
-    color: var(--bread);
+.home-banner-text-div {
+    z-index: 2;
 }
 
 .home-banner-img {
@@ -35,6 +44,11 @@
 .footer {
     background-color: #f8f9fa;
     color: rgba(0, 0, 0, 0.5);
+}
+
+.footer-location {
+    background-color: var(--bread);
+    color: white;
 }
 
 .menu-img {

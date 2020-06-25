@@ -164,3 +164,7 @@
     background-color: var(--almond);
     color: var(--otherBrown);
 }
+
+.contact-form {
+    background-color: var(--beige);
+}

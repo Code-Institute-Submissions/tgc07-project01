@@ -168,3 +168,13 @@
 .contact-form {
     background-color: var(--beige);
 }
+
+.btn-primary {
+    background-color: var(--green);
+    border-color: var(--green);
+}
+
+.btn-primary:hover {
+    background-color: var(--bread);
+    border-color: var(--bread);
+}

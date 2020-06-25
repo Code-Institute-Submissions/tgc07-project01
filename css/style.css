@@ -99,9 +99,9 @@
     border-bottom: solid white 1px;
 }
 
-.find-us {
+/* .find-us {
     min-height: 75vh;
-}
+} */
 
 .find-us-1 {
     background-image: url("../img/leaf-loaf-720x1080.jpg");
@@ -114,6 +114,24 @@
 .find-us-2 {
     background-color: var(--beige);
     max-height: 1080px;
+}
+
+/* Media query for medium screen sizes and larger */
+@media (min-width: 768px) {
+    .find-us-1 {
+        min-height: 75vh;
+        background-image: url("../img/leaf-loaf-720x1080.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        max-height: 1080px;
+        color: white;
+    }
+
+    .find-us-2 {
+        min-height: 75vh;
+        background-color: var(--beige);
+        max-height: 1080px;
+    }
 }
 
 .about-r1-c1 {

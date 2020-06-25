@@ -46,6 +46,18 @@
     min-height: 400px;
 }
 
+/* Media query for small screen sizes and smaller */
+@media (max-width: 576px) {
+    .location-footer {
+        font-size: 0.9rem;
+    }
+
+    .location-footer-title {
+        font-size: 1.1rem;
+        font-weight: 600;
+    }
+}
+
 .footer {
     background-color: #f8f9fa;
     color: rgba(0, 0, 0, 0.5);

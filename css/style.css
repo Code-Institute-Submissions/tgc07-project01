@@ -185,6 +185,7 @@
 .menu-cycle-parent {
     position: relative;
     min-height: 30vh;
+    max-height: 530px;
 }
 
 /* Elements to animate */
@@ -222,3 +223,42 @@
     animation-delay: 30s;
 }
 
+.menu-cycle-pastry:nth-child(1) {
+    background-image: url(../img/pastry-cycle-1.jpg);
+    animation-delay: 0s;
+}
+
+.menu-cycle-pastry:nth-child(2) {
+    background-image: url(../img/pastry-cycle-2.jpg);
+    animation-delay: 10s;
+}
+
+.menu-cycle-pastry:nth-child(3) {
+    background-image: url(../img/pastry-cycle-3.jpg);
+    animation-delay: 20s;
+}
+
+.menu-cycle-pastry:nth-child(4) {
+    background-image: url(../img/pastry-cycle-4.jpg);
+    animation-delay: 30s;
+}
+
+.menu-cycle-drinks:nth-child(1) {
+    background-image: url(../img/drinks-cycle-1.jpg);
+    animation-delay: 0s;
+}
+
+.menu-cycle-drinks:nth-child(2) {
+    background-image: url(../img/drinks-cycle-2.jpg);
+    animation-delay: 10s;
+}
+
+.menu-cycle-drinks:nth-child(3) {
+    background-image: url(../img/drinks-cycle-3.jpg);
+    animation-delay: 20s;
+}
+
+.menu-cycle-drinks:nth-child(4) {
+    background-image: url(../img/drinks-cycle-4.jpg);
+    animation-delay: 30s;
+}

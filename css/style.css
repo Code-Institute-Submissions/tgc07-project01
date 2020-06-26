@@ -90,15 +90,15 @@
     background-position: bottom;
 } */
 
-.menu-img-2 {
+/* .menu-img-2 {
     background-image: url(../img/muffins-basket-800x1200.jpg);
     background-position: right;
-}
+} */
 
-.menu-img-3 {
+/* .menu-img-3 {
     background-image: url(../img/latte-800x533.jpg);
     background-position: center;
-}
+} */
 
 .menu-filler {
     border-bottom: solid white 1px;
@@ -175,6 +175,14 @@
     border-color: var(--bread);
 }
 
+.contact-form-submitted {
+    background-image: url(../img/coffee-beans-heart-1080.jpg);
+    background-size: cover;
+    background-position: bottom;
+    min-height: 50vh;
+    max-height: 700px;
+}
+
 /* Keyframes */
 @keyframes fade {
     0% {opacity: 0}
@@ -182,13 +190,13 @@
     100% {opacity: 0}
 }
 
+/* Elements to animate */
 .menu-cycle-parent {
     position: relative;
     min-height: 30vh;
     max-height: 530px;
 }
 
-/* Elements to animate */
 .menu-cycle {
     background-size: cover;
     background-repeat: none;

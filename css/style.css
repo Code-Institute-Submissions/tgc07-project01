@@ -85,10 +85,10 @@
     margin: 1rem 6px -6px 6px;
 }
 
-.menu-img-1 {
+/* .menu-img-1 {
     background-image: url(../img/bread-selection-800x534.jpg);
     background-position: bottom;
-}
+} */
 
 .menu-img-2 {
     background-image: url(../img/muffins-basket-800x1200.jpg);
@@ -103,10 +103,6 @@
 .menu-filler {
     border-bottom: solid white 1px;
 }
-
-/* .find-us {
-    min-height: 75vh;
-} */
 
 .find-us-1 {
     background-image: url("../img/leaf-loaf-720x1080.jpg");
@@ -178,3 +174,51 @@
     background-color: var(--bread);
     border-color: var(--bread);
 }
+
+/* Keyframes */
+@keyframes fade {
+    0% {opacity: 0}
+    24% {opacity: 1}
+    100% {opacity: 0}
+}
+
+.menu-cycle-parent {
+    position: relative;
+    min-height: 30vh;
+}
+
+/* Elements to animate */
+.menu-cycle {
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    opacity: 0;
+    z-index: 0;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    animation: fade 40s 0s infinite cubic-bezier(.25,1,0,3);
+}
+
+.menu-cycle-bread:nth-child(1) {
+    background-image: url(../img/bread-cycle-1.jpg);
+    animation-delay: 0s;
+}
+
+.menu-cycle-bread:nth-child(2) {
+    background-image: url(../img/bread-cycle-2.jpg);
+    animation-delay: 10s;
+}
+
+.menu-cycle-bread:nth-child(3) {
+    background-image: url(../img/bread-cycle-3.jpg);
+    animation-delay: 20s;
+}
+
+.menu-cycle-bread:nth-child(4) {
+    background-image: url(../img/bread-cycle-4.jpg);
+    animation-delay: 30s;
+}
+

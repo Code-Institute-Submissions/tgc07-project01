@@ -194,7 +194,7 @@
     left: 0px;
     width: 100%;
     height: 100%;
-    animation: fade 40s 0s infinite cubic-bezier(.25,1,0,3);
+    animation: fade 20s 0s infinite cubic-bezier(.25,1,0,3);
 }
 
 .menu-cycle-bread:nth-child(1) {
@@ -204,17 +204,17 @@
 
 .menu-cycle-bread:nth-child(2) {
     background-image: url(../img/bread-cycle-2.jpg);
-    animation-delay: 10s;
+    animation-delay: 5s;
 }
 
 .menu-cycle-bread:nth-child(3) {
     background-image: url(../img/bread-cycle-3.jpg);
-    animation-delay: 20s;
+    animation-delay: 10s;
 }
 
 .menu-cycle-bread:nth-child(4) {
     background-image: url(../img/bread-cycle-4.jpg);
-    animation-delay: 30s;
+    animation-delay: 15s;
 }
 
 .menu-cycle-pastry:nth-child(1) {
@@ -224,17 +224,17 @@
 
 .menu-cycle-pastry:nth-child(2) {
     background-image: url(../img/pastry-cycle-2.jpg);
-    animation-delay: 10s;
+    animation-delay: 5s;
 }
 
 .menu-cycle-pastry:nth-child(3) {
     background-image: url(../img/pastry-cycle-3.jpg);
-    animation-delay: 20s;
+    animation-delay: 10s;
 }
 
 .menu-cycle-pastry:nth-child(4) {
     background-image: url(../img/pastry-cycle-4.jpg);
-    animation-delay: 30s;
+    animation-delay: 15s;
 }
 
 .menu-cycle-drinks:nth-child(1) {
@@ -244,15 +244,15 @@
 
 .menu-cycle-drinks:nth-child(2) {
     background-image: url(../img/drinks-cycle-2.jpg);
-    animation-delay: 10s;
+    animation-delay: 5s;
 }
 
 .menu-cycle-drinks:nth-child(3) {
     background-image: url(../img/drinks-cycle-3.jpg);
-    animation-delay: 20s;
+    animation-delay: 10s;
 }
 
 .menu-cycle-drinks:nth-child(4) {
     background-image: url(../img/drinks-cycle-4.jpg);
-    animation-delay: 30s;
+    animation-delay: 15s;
 }

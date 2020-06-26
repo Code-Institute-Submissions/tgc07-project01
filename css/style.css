@@ -1,14 +1,10 @@
 /* Defining global scope CSS variables */
 :root {
-    --beige: #fffff9;
-    --cream: #ffffea;
-    --almond: #fcf8ef;
-    --sand: #dad49c;
-    --earth: #88835f;
-    --bread: #8c7a5f;
-    --brown: #51412d;
-    --otherBrown: #3b270c;
-    --green: #77866d;
+    --myBeige: #fffff9;
+    --myAlmond: #fcf8ef;
+    --myBread: #8c7a5f;
+    --myBrown: #3b270c;
+    --myGreen: #77866d;
 }
 
 .text-1 {
@@ -16,17 +12,17 @@
 }
 
 .text-2 {
-    background-color: var(--almond);
-    color: var(--otherBrown);
+    background-color: var(--myAlmond);
+    color: var(--myBrown);
 }
 
 .text-3 {
-    background-color: var(--bread);
+    background-color: var(--myBread);
     color: white;
 }
 
 .text-4 {
-    background-color: var(--green);
+    background-color: var(--myGreen);
     color: white;
 }
 
@@ -35,7 +31,7 @@
 }
 
 .home-banner {
-    background-color: var(--bread);
+    background-color: var(--myBread);
 }
 
 .home-banner-text-div {
@@ -75,7 +71,7 @@
 }
 
 .menu-text-col {
-    background-color: var(--green);
+    background-color: var(--myGreen);
     max-height: 1080px;
     color: white;
 }
@@ -97,7 +93,7 @@
 }
 
 .find-us-2 {
-    background-color: var(--beige);
+    background-color: var(--myBeige);
     max-height: 1080px;
 }
 
@@ -114,7 +110,7 @@
 
     .find-us-2 {
         min-height: 75vh;
-        background-color: var(--beige);
+        background-color: var(--myBeige);
         max-height: 1080px;
     }
 }
@@ -128,8 +124,8 @@
 }
 
 .about-r1-c2 {
-    background-color: var(--almond);
-    color: var(--otherBrown);
+    background-color: var(--myAlmond);
+    color: var(--myBrown);
 }
 
 .about-r2-c1 {
@@ -141,22 +137,22 @@
 }
 
 .about-r2-c2 {
-    background-color: var(--almond);
-    color: var(--otherBrown);
+    background-color: var(--myAlmond);
+    color: var(--myBrown);
 }
 
 .contact-form {
-    background-color: var(--beige);
+    background-color: var(--myBeige);
 }
 
 .btn-primary {
-    background-color: var(--green);
-    border-color: var(--green);
+    background-color: var(--myGreen);
+    border-color: var(--myGreen);
 }
 
 .btn-primary:hover {
-    background-color: var(--bread);
-    border-color: var(--bread);
+    background-color: var(--myBread);
+    border-color: var(--myBread);
 }
 
 .contact-form-submitted {

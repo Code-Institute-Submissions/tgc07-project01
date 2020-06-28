@@ -158,9 +158,16 @@
 .contact-form-submitted {
     background-image: url(../img/coffee-beans-heart-1080.jpg);
     background-size: cover;
-    background-position: bottom;
+    background-position: 15% 100%;
     min-height: 50vh;
     max-height: 700px;
+}
+
+/* Media query for small screen sizes and larger */
+@media (min-width: 576px) {
+    .contact-form-submitted {
+        min-height: 540px;
+    }
 }
 
 .thanks-msg {

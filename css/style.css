@@ -35,6 +35,14 @@ p, a, label, input, select, textarea, button {
     color: white;
 }
 
+@media (min-width: 1200px) {
+    body {
+        background-image: url("../img/wheat-blur.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
+
 .logo {
     max-height: 60px;
 }

@@ -78,6 +78,13 @@ To check compatibility and the layout's responsiveness the website was tested us
 
 A live demo of this project can be viewed [here](https://andrewsui.github.io/tgc07-project01/index.html) which has been hosted using GitHub Pages.
 
+Code for the project was deployed in the following manner:
+- Individual files were added to the next commit staging area using `git add [filename]`
+- All changes in the working directory were added to the next commit (stage) using `git add .`
+- Staged content was committed as new commit snapshot using `git commit -m “[message]`
+- Local branch commits were pushed to the remote repository master branch using `git push -u origin master`
+- The website was published on GitHub Pages by navigating to the "Settings" of the project's repository and selecting the master branch as the source in the GitHub Pages section.
+
 ## Credits
 
 ### Content and Media

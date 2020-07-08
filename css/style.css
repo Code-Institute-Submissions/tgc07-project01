@@ -1,3 +1,5 @@
+/* CSS style sheet used on all pages */
+
 /* Defining global scope CSS variables */
 :root {
     --myBeige: #fffff9;
@@ -7,6 +9,7 @@
     --myGreen: #77866d;
 }
 
+/* Setting fonts common to all pages */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Sedgwick Ave', cursive;
     font-weight: bold;
@@ -16,6 +19,7 @@ p, a, label, input, select, textarea, button {
     font-family: 'Comic Neue', Arial, Helvetica, sans-serif;
 }
 
+/* Text and background colour schemes re-used on different pages by setting class in html */
 .text-1 {
     background-color: #f8f9fa;
 }
@@ -35,6 +39,7 @@ p, a, label, input, select, textarea, button {
     color: white;
 }
 
+/* Background image only displayed on large screen sizes and up */
 @media (min-width: 1200px) {
     body {
         background-image: url("../img/wheat-blur.jpg");
@@ -43,27 +48,12 @@ p, a, label, input, select, textarea, button {
     }
 }
 
+/* Logo displayed at top left corner of all pages */
 .logo {
     max-height: 60px;
 }
 
-.home-banner {
-    background-color: var(--myBread);
-}
-
-.home-banner-text-div {
-    z-index: 2;
-}
-
-.home-banner-img {
-    background-image: url(../img/kneading-bw-800x600.jpg);
-    background-position: right;
-    background-size: cover;
-    height: 40vh;
-    min-height: 400px;
-}
-
-/* Media query for small screen sizes and smaller */
+/* Footers common to most pages */
 @media (max-width: 576px) {
     .location-footer {
         font-size: 0.9rem;
@@ -82,205 +72,4 @@ p, a, label, input, select, textarea, button {
 .footer {
     background-color: #f8f9fa;
     color: rgba(0, 0, 0, 0.5);
-}
-
-.menu-img {
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 200px;
-    color: white;
-}
-
-.menu-text-col {
-    background-color: var(--myGreen);
-    max-height: 1080px;
-    color: white;
-}
-
-.menu-text {
-    margin: 1rem 6px -6px 6px;
-}
-
-.menu-filler {
-    border-bottom: solid white 1px;
-}
-
-.find-us-1 {
-    background-image: url("../img/leaf-loaf-720x1080.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    max-height: 1080px;
-    color: white;
-}
-
-.find-us-2 {
-    background-color: var(--myBeige);
-    max-height: 1080px;
-}
-
-/* Media query for medium screen sizes and larger */
-@media (min-width: 768px) {
-    .find-us-1 {
-        min-height: 75vh;
-        background-image: url("../img/leaf-loaf-720x1080.jpg");
-        background-repeat: no-repeat;
-        background-size: cover;
-        max-height: 1080px;
-        color: white;
-    }
-
-    .find-us-2 {
-        min-height: 75vh;
-        background-color: var(--myBeige);
-        max-height: 1080px;
-    }
-}
-
-.about-r1-c1 {
-    background-image: url("../img/bread-crop.jpg");
-    background-position: bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 40vh;
-}
-
-.about-r1-c2 {
-    background-color: var(--myAlmond);
-    color: var(--myBrown);
-}
-
-.about-r2-c1 {
-    background-image: url("../img/croissant-900x720.jpg");
-    background-position: bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 40vh;
-}
-
-.about-r2-c2 {
-    background-color: var(--myAlmond);
-    color: var(--myBrown);
-}
-
-.contact-form {
-    background-color: var(--myBeige);
-}
-
-.btn-primary {
-    background-color: var(--myGreen);
-    border-color: var(--myGreen);
-}
-
-.btn-primary:hover {
-    background-color: var(--myBread);
-    border-color: var(--myBread);
-}
-
-.contact-form-submitted {
-    background-image: url(../img/coffee-beans-heart-1080.jpg);
-    background-size: cover;
-    background-position: 15% 100%;
-    min-height: 50vh;
-    max-height: 700px;
-}
-
-/* Media query for small screen sizes and larger */
-@media (min-width: 576px) {
-    .contact-form-submitted {
-        min-height: 540px;
-    }
-}
-
-.thanks-msg {
-    background-color: rgb(90, 90, 90, 0.9);
-    text-align: center;
-    color: white;
-}
-
-/* Keyframes */
-@keyframes fade {
-    0% {opacity: 0}
-    24% {opacity: 1}
-    100% {opacity: 0}
-}
-
-/* Elements to animate */
-.menu-cycle-parent {
-    position: relative;
-    min-height: 30vh;
-    max-height: 530px;
-}
-
-.menu-cycle {
-    background-size: cover;
-    background-repeat: none;
-    background-position: center;
-    opacity: 0;
-    z-index: 0;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    height: 100%;
-    animation: fade 20s 0s infinite cubic-bezier(.25,1,0,3);
-}
-
-.menu-cycle-bread:nth-child(1) {
-    background-image: url(../img/bread-cycle-1.jpg);
-    animation-delay: 0s;
-}
-
-.menu-cycle-bread:nth-child(2) {
-    background-image: url(../img/bread-cycle-2.jpg);
-    animation-delay: 5s;
-}
-
-.menu-cycle-bread:nth-child(3) {
-    background-image: url(../img/bread-cycle-3.jpg);
-    animation-delay: 10s;
-}
-
-.menu-cycle-bread:nth-child(4) {
-    background-image: url(../img/bread-cycle-4.jpg);
-    animation-delay: 15s;
-}
-
-.menu-cycle-pastry:nth-child(1) {
-    background-image: url(../img/pastry-cycle-1.jpg);
-    animation-delay: 0s;
-}
-
-.menu-cycle-pastry:nth-child(2) {
-    background-image: url(../img/pastry-cycle-2.jpg);
-    animation-delay: 5s;
-}
-
-.menu-cycle-pastry:nth-child(3) {
-    background-image: url(../img/pastry-cycle-3.jpg);
-    animation-delay: 10s;
-}
-
-.menu-cycle-pastry:nth-child(4) {
-    background-image: url(../img/pastry-cycle-4.jpg);
-    animation-delay: 15s;
-}
-
-.menu-cycle-drinks:nth-child(1) {
-    background-image: url(../img/drinks-cycle-1.jpg);
-    animation-delay: 0s;
-}
-
-.menu-cycle-drinks:nth-child(2) {
-    background-image: url(../img/drinks-cycle-2.jpg);
-    animation-delay: 5s;
-}
-
-.menu-cycle-drinks:nth-child(3) {
-    background-image: url(../img/drinks-cycle-3.jpg);
-    animation-delay: 10s;
-}
-
-.menu-cycle-drinks:nth-child(4) {
-    background-image: url(../img/drinks-cycle-4.jpg);
-    animation-delay: 15s;
 }

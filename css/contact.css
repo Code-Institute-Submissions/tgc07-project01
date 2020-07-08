@@ -1,0 +1,36 @@
+/* Styling for both "contact.html" and "contact-submit.html" pages */
+
+.contact-form {
+    background-color: var(--myBeige);
+}
+
+.btn-primary {
+    background-color: var(--myGreen);
+    border-color: var(--myGreen);
+}
+
+.btn-primary:hover {
+    background-color: var(--myBread);
+    border-color: var(--myBread);
+}
+
+.contact-form-submitted {
+    background-image: url(../img/coffee-beans-heart-1080.jpg);
+    background-size: cover;
+    background-position: 15% 100%;
+    min-height: 50vh;
+    max-height: 700px;
+}
+
+/* Media query for small screen sizes and larger */
+@media (min-width: 576px) {
+    .contact-form-submitted {
+        min-height: 540px;
+    }
+}
+
+.thanks-msg {
+    background-color: rgb(90, 90, 90, 0.9);
+    text-align: center;
+    color: white;
+}

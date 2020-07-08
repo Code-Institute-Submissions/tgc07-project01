@@ -1,0 +1,31 @@
+/* About us page */
+
+/* Row 1, Column 1 */
+.about-r1-c1 {
+    background-image: url("../img/bread-crop.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 40vh;
+}
+
+/* Row 1, Column 2 */
+.about-r1-c2 {
+    background-color: var(--myAlmond);
+    color: var(--myBrown);
+}
+
+/* Row 2, Column 1 */
+.about-r2-c1 {
+    background-image: url("../img/croissant-900x720.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 40vh;
+}
+
+/* Row 2, Column 2 */
+.about-r2-c2 {
+    background-color: var(--myAlmond);
+    color: var(--myBrown);
+}

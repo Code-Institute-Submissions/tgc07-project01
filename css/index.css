@@ -1,0 +1,16 @@
+/* Welcome banner on home page */
+.home-banner {
+    background-color: var(--myBread);
+}
+
+.home-banner-text-div {
+    z-index: 2;
+}
+
+.home-banner-img {
+    background-image: url(../img/kneading-bw-800x600.jpg);
+    background-position: right;
+    background-size: cover;
+    height: 40vh;
+    min-height: 400px;
+}

@@ -14,3 +14,10 @@
     height: 40vh;
     min-height: 400px;
 }
+
+/* Background image styling for large screen sizes and up */
+@media (min-width: 1200px) {
+    .home-banner-img {
+        min-height: 500px;
+    }
+}

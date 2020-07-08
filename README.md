@@ -11,8 +11,17 @@ This is a website created for an imaginary bakery ("FictionalBakery") to serve a
 Wireframes created during the design process can be found here: [mobile](https://github.com/andrewsui/tgc07-project01/blob/master/wireframe/wireframe-mobile.pdf) / [desktop](https://github.com/andrewsui/tgc07-project01/blob/master/wireframe/wireframe-desktop.pdf).
 
 ### User Stories
-- Customers would want to be able to easily access key information about the bakery such as menu, location, opening hours, raison d’être and contact form. The bakery's address, telephone number and opening hours can be found on every page, so that it extremely easy for potential customers to find this information.
-- The bakery's owners would use the website to showcase the quality of their products and the care taken in producing them, demonstrating why the products command a price premium over regular supermarket produce. The website serves as an information resource that does not need to change on a frequent basis. For more frequent customer engagement, the bakery's social media accounts would mainly be used instead, as such there are also social media links on every page.
+- General - Customers would want to be able to easily access key information about the bakery such as menu, location, opening hours, raison d’être and contact form. The bakery's address, telephone number and opening hours can be found on every page, so that it extremely easy for potential customers to find this information.
+- General - The colour scheme uses relaxing and soothing colours to produce a natural feel and tone for the website and the fonts used look handwritten. Together, the colour scheme and typography embody the business owners' goals for the bakery: to make the best bread and pastries we can with as few ingredients as possible.
+- Home page - Customers should immediately be able to identify that the website is for a bakery. The title and picture demonstrate the business' mantra to the customers.
+- Home page - The bakery's owners would want to showcase the quality of their products and the care taken in producing them, demonstrating why the products command a price premium over regular supermarket produce. The website serves as an information resource that does not need to change on a frequent basis. For more frequent customer engagement, the bakery's social media accounts would mainly be used instead, as such there are also social media links on every page.
+- Menu page - Customers would like to preview the menu items and prices, without having to visit the bakery in person.
+- Menu page - The image slideshow on this page enables the business owners to be able to show a sample of what their products look like, which reiterates the quality and care taken in producing them.
+- Find Us page - The customer and business owners' goals and exactly the same for this page, whereby it is totally clear where the bakery is located and the associated opening hours. A map is also embedded at the bottom of the page for additional help in finding the premises.
+- About Us page - This page gives customers further insight into the baking process, ingredients used and the freshness of the produce, demonstrating why the products are more expensive than mass produced supermarket products.
+- About Us page - The business owners use this page to provide a behind-the-scenes view into their baking process, which is also shown in the YouTube video embedded at the bottom of the page.
+- Contact Us page - Customers or potential employees may wish to contact the business owners, therefore this contact form is an easy way of accomplishing this.
+- Contact Us page - The business owners may not wish to publicly display their email address, so this contact form would be a simple yet easy way for the public to contact the business owners.
 
 ## Features
 
@@ -41,21 +50,21 @@ Wireframes created during the design process can be found here: [mobile](https:/
 All testing was done manually. The following tests were performed:
 
 1. [Menu](https://andrewsui.github.io/tgc07-project01/menu.html):
-  - Verified image slideshow keeps looping for as long as website was left open and displays as expected.
+  - Verified image slideshow keeps looping for as long as website was left open and displayed as expected.
 
 2. [Find us](https://andrewsui.github.io/tgc07-project01/find-us.html):
   - Verified that embedded map was able to be interacted with and the "view larger map" link successfully opened Google Maps in a new tab.
 
 3. [About](https://andrewsui.github.io/tgc07-project01/about.html):
-  - Verified that embedded YouTube video plays as expected.
+  - Verified that embedded YouTube video played as expected.
 
 4. [Contact](https://andrewsui.github.io/tgc07-project01/contact.html) page:
-  - Tried to submit the empty form and verified that an error message about the required fields appears.
-  - Tried to submit the form with an invalid email address and verified that a relevant error message appears.
+  - Tried to submit the empty form and verified that an error message about the required fields appeared.
+  - Tried to submit the form with an invalid email address and verified that a relevant error message appeared.
   - Tried to submit the form with all inputs valid and verified that the user is redirected to a page displaying a thank you message.
 
 5. Navbar links:
-  - All navbar links were checked to verify they link to the correct pages.
+  - All navbar links were checked to verify they linked to the correct pages.
 
 6. Telephone number for the bakery on all pages:
   - Verified that the link successfuly redirected phone call app on mobile device.

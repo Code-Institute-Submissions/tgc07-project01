@@ -66,7 +66,7 @@ All testing was done manually. The following tests were performed:
   - Tried to submit the form with all inputs valid and verified that the user is redirected to a page displaying a thank you message.
 
 5. Navbar links:
-  - All navbar links were checked to verify they linked to the correct pages and they are disabled for the current page.
+  - All navbar links were checked to verify they linked to the correct pages and that they were disabled for the current page the user was on.
 
 6. Telephone number for the bakery on all pages:
   - Verified that the link successfuly redirected phone call app on mobile device.
@@ -79,6 +79,7 @@ To check compatibility and the layout's responsiveness the website was tested us
 ## Deployment
 
 A live demo of this project can be viewed [here](https://andrewsui.github.io/tgc07-project01/index.html) which has been hosted using GitHub Pages.
+All the source code for this project is available [here](https://github.com/andrewsui/tgc07-project01) on GitHub.
 
 Code for the project was deployed in the following manner:
 - Individual files were added to the next commit staging area by executing the `git add [filename]` command in a command-line interface.

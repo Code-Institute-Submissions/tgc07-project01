@@ -37,7 +37,7 @@
 
 .menu-cycle {
     background-size: cover;
-    background-repeat: none;
+    background-repeat: no-repeat;
     background-position: center;
     opacity: 0;
     z-index: 0;

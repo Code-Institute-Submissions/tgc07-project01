@@ -13,13 +13,14 @@ Wireframes created during the design process can be found here: [mobile](https:/
 - Customers would want to be able to easily access key information about the bakery such as menu, location, opening hours, raison d’être and contact form. The bakery's address, telephone number and opening hours can be found on every page, so that it extremely easy for potential customers to find this information.
 - The colour scheme uses relaxing and soothing colours to produce a natural feel and tone for the website and the fonts used look handwritten. Together, the colour scheme and typography embody the business owners' goals for the bakery: to make the best bread and pastries they can, with as few ingredients as possible. The website serves as an information resource that does not need to change on a frequent basis. For more frequent customer engagement, the bakery's social media accounts would mainly be used instead, as such there are also social media links on every page.
 
+#### Home Page
 ![FictionalBakery home page md screenshot 1](screenshots/md-devices/FictionalBakery-Home-md.png "FictionalBakery home page md screenshot 1")
 ![FictionalBakery home page xs screenshot 1](screenshots/xs-devices/FictionalBakery-Home-xs-1.png "FictionalBakery home page xs screenshot 1")
 ![FictionalBakery home page xs screenshot 2](screenshots/xs-devices/FictionalBakery-Home-xs-2.png "FictionalBakery home page xs screenshot 2")
 - [Home page](https://andrewsui.github.io/tgc07-project01/index.html) - Customers should immediately be able to identify that the website is for a bakery. From the title and picture, customers are able to understand the business' ethos.
 - [Home page](https://andrewsui.github.io/tgc07-project01/index.html) - The bakery's owners goal of this page is to make it obvious to visitors that the website is for a bakery and to also portray the business' values and culture. The home page demonstrates the business' artisanal, rustic, high quality and welcoming ideologies.
 
-
+#### Menu Page
 ![FictionalBakery menu md screenshot 1](screenshots/md-devices/FictionalBakery-Menu-md-1.jpg "FictionalBakery menu md screenshot 1")
 ![FictionalBakery menu md screenshot 2](screenshots/md-devices/FictionalBakery-Menu-md-2.jpg "FictionalBakery menu md screenshot 2")
 ![FictionalBakery menu xs screenshot 1](screenshots/xs-devices/FictionalBakery-Menu-xs-1.jpg "FictionalBakery menu xs screenshot 1")
@@ -28,13 +29,13 @@ Wireframes created during the design process can be found here: [mobile](https:/
 - [Menu page](https://andrewsui.github.io/tgc07-project01/menu.html) - Customers would like to preview the menu items and prices, without having to visit the bakery in person. They would also want to see the quality of the bakery's products.
 - [Menu page](https://andrewsui.github.io/tgc07-project01/menu.html) - The image slideshow on this page enables the business owners to be able to show a sample of what their products look like, which reiterates the quality and care taken in producing them. Having the prices easily accessible to visitors demonstrates the bakery's transparency and openness.
 
-
+#### Find Us Page
 ![FictionalBakery find-us md screenshot 1](screenshots/md-devices/FictionalBakery-FindUs-md-1.png "FictionalBakery find-us md screenshot 1")
 ![FictionalBakery find-us md screenshot 2](screenshots/md-devices/FictionalBakery-FindUs-md-2.png "FictionalBakery find-us md screenshot 2")
 ![FictionalBakery find-us xs screenshot 1](screenshots/xs-devices/FictionalBakery-FindUs-xs.png "FictionalBakery find-us xs screenshot 1")
 - [Find Us page](https://andrewsui.github.io/tgc07-project01/find-us.html) - The customer and business owners' goals are exactly the same for this page, whereby it must be totally clear where the bakery is located and the associated opening hours. A map is also embedded at the bottom of the page for additional help in finding the premises.
 
-
+#### About Us Page
 ![FictionalBakery about-us md screenshot 1](screenshots/md-devices/FictionalBakery-About-md-1.jpg "FictionalBakery about-us md screenshot 1")
 ![FictionalBakery about-us xs screenshot 1](screenshots/xs-devices/FictionalBakery-About-xs-1.jpg "FictionalBakery about-us xs screenshot 1")
 ![FictionalBakery about-us md screenshot 2](screenshots/md-devices/FictionalBakery-About-md-2.jpg "FictionalBakery about-us md screenshot 2")
@@ -42,7 +43,7 @@ Wireframes created during the design process can be found here: [mobile](https:/
 - [About Us page](https://andrewsui.github.io/tgc07-project01/about.html) - This page gives customers a behind-the-scenes view into the baking process, which is also shown in the YouTube video embedded at the bottom of the page. Through this page, customers are able to understand the care taken throughout the entire process behind the bakery's products.
 - [About Us page](https://andrewsui.github.io/tgc07-project01/about.html) - The business owners use this page to provide further insight into the baking process, ingredients used and the freshness of the produce, justifying why the products are more expensive than mass produced supermarket products.
 
-
+#### Contact Us Page
 ![FictionalBakery contact-us md screenshot 1](screenshots/md-devices/FictionalBakery-Contact-md.png "FictionalBakery contact-us md screenshot 1")
 ![FictionalBakery contact-us xs screenshot 1](screenshots/xs-devices/FictionalBakery-Contact-xs.png "FictionalBakery contact-us xs screenshot 1")
 ![FictionalBakery contact-submit md screenshot 1](screenshots/md-devices/FictionalBakery-ContactSubmit-md.png "FictionalBakery contact-submit md screenshot 1")

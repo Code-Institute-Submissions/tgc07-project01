@@ -33,8 +33,8 @@ Wireframes created during the design process can be found here: [mobile](https:/
 - [Find Us page](https://andrewsui.github.io/tgc07-project01/find-us.html) - The customer and business owners' goals are exactly the same for this page, whereby it must be totally clear where the bakery is located and the associated opening hours. A map is also embedded at the bottom of the page for additional help in finding the premises.
 
 ![FictionalBakery about-us md screenshot 1](screenshots/md-devices/FictionalBakery-About-md-1.jpg "FictionalBakery about-us md screenshot 1")
-![FictionalBakery about-us md screenshot 2](screenshots/md-devices/FictionalBakery-About-md-2.jpg "FictionalBakery about-us md screenshot 2")
 ![FictionalBakery about-us xs screenshot 1](screenshots/xs-devices/FictionalBakery-About-xs-1.jpg "FictionalBakery about-us xs screenshot 1")
+![FictionalBakery about-us md screenshot 2](screenshots/md-devices/FictionalBakery-About-md-2.jpg "FictionalBakery about-us md screenshot 2")
 ![FictionalBakery about-us xs screenshot 2](screenshots/xs-devices/FictionalBakery-About-xs-2.jpg "FictionalBakery about-us xs screenshot 2")
 - [About Us page](https://andrewsui.github.io/tgc07-project01/about.html) - This page gives customers a behind-the-scenes view into the baking process, which is also shown in the YouTube video embedded at the bottom of the page. Through this page, customers are able to understand the care taken throughout the entire process behind the bakery's products.
 - [About Us page](https://andrewsui.github.io/tgc07-project01/about.html) - The business owners use this page to provide further insight into the baking process, ingredients used and the freshness of the produce, justifying why the products are more expensive than mass produced supermarket products.

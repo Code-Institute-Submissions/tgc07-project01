@@ -11,17 +11,17 @@ A live demo of this project can be viewed [here](https://andrewsui.github.io/tgc
 Wireframes created during the design process can be found here: [mobile](https://github.com/andrewsui/tgc07-project01/blob/master/wireframe/wireframe-mobile.pdf) / [desktop](https://github.com/andrewsui/tgc07-project01/blob/master/wireframe/wireframe-desktop.pdf).
 
 ### User Stories
-- General - Customers would want to be able to easily access key information about the bakery such as menu, location, opening hours, raison d’être and contact form. The bakery's address, telephone number and opening hours can be found on every page, so that it extremely easy for potential customers to find this information.
-- General - The colour scheme uses relaxing and soothing colours to produce a natural feel and tone for the website and the fonts used look handwritten. Together, the colour scheme and typography embody the business owners' goals for the bakery: to make the best bread and pastries they can, with as few ingredients as possible. The website serves as an information resource that does not need to change on a frequent basis. For more frequent customer engagement, the bakery's social media accounts would mainly be used instead, as such there are also social media links on every page.
-- Home page - Customers should immediately be able to identify that the website is for a bakery. From the title and picture, customers are able to understand the business' ethos.
-- Home page - The bakery's owners would want to showcase the quality of their products and the care taken in producing them, demonstrating why their products command a price premium over regular supermarket produce.
-- Menu page - Customers would like to preview the menu items and prices, without having to visit the bakery in person.
-- Menu page - The image slideshow on this page enables the business owners to be able to show a sample of what their products look like, which reiterates the quality and care taken in producing them.
-- Find Us page - The customer and business owners' goals are exactly the same for this page, whereby it must be totally clear where the bakery is located and the associated opening hours. A map is also embedded at the bottom of the page for additional help in finding the premises.
-- About Us page - This page gives customers a behind-the-scenes view into the baking process, which is also shown in the YouTube video embedded at the bottom of the page.
-- About Us page - The business owners use this page to provide further insight into the baking process, ingredients used and the freshness of the produce, demonstrating why the products are more expensive than mass produced supermarket products.
-- Contact Us page - Customers or potential employees may wish to contact the business owners, therefore this contact form is an easy way of accomplishing this.
-- Contact Us page - The business owners may not wish to publicly display their email address, so this contact form would be a simple yet easy way for the public to contact the business owners.
+- Customers would want to be able to easily access key information about the bakery such as menu, location, opening hours, raison d’être and contact form. The bakery's address, telephone number and opening hours can be found on every page, so that it extremely easy for potential customers to find this information.
+- The colour scheme uses relaxing and soothing colours to produce a natural feel and tone for the website and the fonts used look handwritten. Together, the colour scheme and typography embody the business owners' goals for the bakery: to make the best bread and pastries they can, with as few ingredients as possible. The website serves as an information resource that does not need to change on a frequent basis. For more frequent customer engagement, the bakery's social media accounts would mainly be used instead, as such there are also social media links on every page.
+- [Home page](https://andrewsui.github.io/tgc07-project01/index.html) - Customers should immediately be able to identify that the website is for a bakery. From the title and picture, customers are able to understand the business' ethos.
+- [Home page](https://andrewsui.github.io/tgc07-project01/index.html) - The bakery's owners goal of this page is to make it obvious to visitors that the website is for a bakery and to also portray the business' values and culture. The home page demonstrates the business' artisanal, rustic, high quality and welcoming ideologies.
+- [Menu page](https://andrewsui.github.io/tgc07-project01/menu.html) - Customers would like to preview the menu items and prices, without having to visit the bakery in person.
+- [Menu page](https://andrewsui.github.io/tgc07-project01/menu.html) - The image slideshow on this page enables the business owners to be able to show a sample of what their products look like, which reiterates the quality and care taken in producing them. Having the prices easily accessible to visitors reiterates the bakery's transparency and openness.
+- [Find Us page](https://andrewsui.github.io/tgc07-project01/find-us.html) - The customer and business owners' goals are exactly the same for this page, whereby it must be totally clear where the bakery is located and the associated opening hours. A map is also embedded at the bottom of the page for additional help in finding the premises.
+- [About Us page](https://andrewsui.github.io/tgc07-project01/about.html) - This page gives customers a behind-the-scenes view into the baking process, which is also shown in the YouTube video embedded at the bottom of the page. Through this page, customers are able to understand the care taken throughout the entire process behind the bakery's products.
+- [About Us page](https://andrewsui.github.io/tgc07-project01/about.html) - The business owners use this page to provide further insight into the baking process, ingredients used and the freshness of the produce, justifying why the products are more expensive than mass produced supermarket products.
+- [Contact Us page](https://andrewsui.github.io/tgc07-project01/contact.html) - Customers or potential employees may wish to contact the business owners, therefore this contact form is an easy way of accomplishing this.
+- [Contact Us page](https://andrewsui.github.io/tgc07-project01/contact.html) - The business owners may not wish to publicly display their email address, so this contact form would be a simple yet easy way for the public to contact the business owners.
 
 ## Features
 
@@ -45,7 +45,7 @@ Wireframes created during the design process can be found here: [mobile](https:/
 
 - HTML
 - CSS
-- [Bootstrap](https://getbootstrap.com/)
+- [Bootstrap v4.5](https://getbootstrap.com/)
 
 ## Testing
 

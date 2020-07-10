@@ -40,8 +40,8 @@ Wireframes created during the design process can be found here: [mobile](https:/
 - [About Us page](https://andrewsui.github.io/tgc07-project01/about.html) - The business owners use this page to provide further insight into the baking process, ingredients used and the freshness of the produce, justifying why the products are more expensive than mass produced supermarket products.
 
 ![FictionalBakery contact-us md screenshot 1](screenshots/md-devices/FictionalBakery-Contact-md.png "FictionalBakery contact-us md screenshot 1")
-![FictionalBakery contact-submit md screenshot 1](screenshots/md-devices/FictionalBakery-ContactSubmit-md.png "FictionalBakery contact-submit md screenshot 1")
 ![FictionalBakery contact-us xs screenshot 1](screenshots/xs-devices/FictionalBakery-Contact-xs.png "FictionalBakery contact-us xs screenshot 1")
+![FictionalBakery contact-submit md screenshot 1](screenshots/md-devices/FictionalBakery-ContactSubmit-md.png "FictionalBakery contact-submit md screenshot 1")
 ![FictionalBakery contact-submit xs screenshot 1](screenshots/xs-devices/FictionalBakery-ContactSubmit-xs.jpg "FictionalBakery contact-submit xs screenshot 1")
 - [Contact Us page](https://andrewsui.github.io/tgc07-project01/contact.html) - Customers or potential employees may wish to contact the business owners, therefore this contact form is an easy way of accomplishing this.
 - [Contact Us page](https://andrewsui.github.io/tgc07-project01/contact.html) - The business owners may not wish to publicly display their email address, so this contact form would be a simple yet easy way for the public to contact the business owners.

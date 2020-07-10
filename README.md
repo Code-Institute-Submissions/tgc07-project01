@@ -15,8 +15,8 @@ Wireframes created during the design process can be found here: [mobile](https:/
 - The colour scheme uses relaxing and soothing colours to produce a natural feel and tone for the website and the fonts used look handwritten. Together, the colour scheme and typography embody the business owners' goals for the bakery: to make the best bread and pastries they can, with as few ingredients as possible. The website serves as an information resource that does not need to change on a frequent basis. For more frequent customer engagement, the bakery's social media accounts would mainly be used instead, as such there are also social media links on every page.
 - [Home page](https://andrewsui.github.io/tgc07-project01/index.html) - Customers should immediately be able to identify that the website is for a bakery. From the title and picture, customers are able to understand the business' ethos.
 - [Home page](https://andrewsui.github.io/tgc07-project01/index.html) - The bakery's owners goal of this page is to make it obvious to visitors that the website is for a bakery and to also portray the business' values and culture. The home page demonstrates the business' artisanal, rustic, high quality and welcoming ideologies.
-- [Menu page](https://andrewsui.github.io/tgc07-project01/menu.html) - Customers would like to preview the menu items and prices, without having to visit the bakery in person.
-- [Menu page](https://andrewsui.github.io/tgc07-project01/menu.html) - The image slideshow on this page enables the business owners to be able to show a sample of what their products look like, which reiterates the quality and care taken in producing them. Having the prices easily accessible to visitors reiterates the bakery's transparency and openness.
+- [Menu page](https://andrewsui.github.io/tgc07-project01/menu.html) - Customers would like to preview the menu items and prices, without having to visit the bakery in person. They would also want to see the quality of the bakery's products.
+- [Menu page](https://andrewsui.github.io/tgc07-project01/menu.html) - The image slideshow on this page enables the business owners to be able to show a sample of what their products look like, which reiterates the quality and care taken in producing them. Having the prices easily accessible to visitors demonstrates the bakery's transparency and openness.
 - [Find Us page](https://andrewsui.github.io/tgc07-project01/find-us.html) - The customer and business owners' goals are exactly the same for this page, whereby it must be totally clear where the bakery is located and the associated opening hours. A map is also embedded at the bottom of the page for additional help in finding the premises.
 - [About Us page](https://andrewsui.github.io/tgc07-project01/about.html) - This page gives customers a behind-the-scenes view into the baking process, which is also shown in the YouTube video embedded at the bottom of the page. Through this page, customers are able to understand the care taken throughout the entire process behind the bakery's products.
 - [About Us page](https://andrewsui.github.io/tgc07-project01/about.html) - The business owners use this page to provide further insight into the baking process, ingredients used and the freshness of the produce, justifying why the products are more expensive than mass produced supermarket products.
@@ -91,9 +91,9 @@ Code for the project was deployed in the following manner:
 ## Credits
 
 ### Content and Media
-- The photos used in this site were obtained from [Unsplash](https://unsplash.com/)
-- The bakery's logo design used in this site was created using [FreeLogoDesign](https://www.freelogodesign.org/)
-- The facebook and instagram logos used in this site were obtained from [Iconfinder](https://www.iconfinder.com/)
+- The photos used in this project were obtained from [Unsplash](https://unsplash.com/)
+- The bakery's logo design used in this project was created using [FreeLogoDesign](https://www.freelogodesign.org/)
+- The facebook and instagram logos used in this project were obtained from [Iconfinder](https://www.iconfinder.com/)
 - The embedded map on the [find us](https://andrewsui.github.io/tgc07-project01/find-us.html) page linked using [Google Maps](https://www.google.com/maps/place/Ireland+Yard,+London,+UK/@51.512778,-0.10179,19z/)
 - The video on the [about](https://andrewsui.github.io/tgc07-project01/about.html) page was linked from [PARAGRAPHIC's YouTube channel](https://www.youtube.com/channel/UCQtzPvhc-8PQrmxcZUVdI7Q), with the original video being hosted [here](https://www.youtube.com/watch?v=73oENaDiq04).
 

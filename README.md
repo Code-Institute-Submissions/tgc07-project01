@@ -18,7 +18,7 @@ Wireframes created during the design process can be found here: [mobile](https:/
 ![FictionalBakery home page xs screenshot 1](screenshots/xs-devices/FictionalBakery-Home-xs-1.png "FictionalBakery home page xs screenshot 1")
 ![FictionalBakery home page xs screenshot 2](screenshots/xs-devices/FictionalBakery-Home-xs-2.png "FictionalBakery home page xs screenshot 2")
 - [Home page](https://andrewsui.github.io/tgc07-project01/index.html) - Customers should immediately be able to identify that the website is for a bakery. From the title and picture, customers are able to understand the business' ethos.
-- [Home page](https://andrewsui.github.io/tgc07-project01/index.html) - The bakery's owners goal of this page is to make it obvious to visitors that the website is for a bakery and to also portray the business' values and culture. The home page demonstrates the business' artisanal, rustic, high quality and welcoming ideologies.
+- [Home page](https://andrewsui.github.io/tgc07-project01/index.html) - The bakery owners' goal of this page is to make it obvious to visitors that the website is for a bakery and to also portray the business' values and culture. The home page demonstrates the business' artisanal, rustic, high quality and welcoming ideologies.
 
 #### Menu Page
 ![FictionalBakery menu md screenshot 1](screenshots/md-devices/FictionalBakery-Menu-md-1.jpg "FictionalBakery menu md screenshot 1")
@@ -56,7 +56,7 @@ Wireframes created during the design process can be found here: [mobile](https:/
 ### Current Features
 - Responsive web design that automatically adjusts the way content is displayed on different screen sizes. In general, a single column is used for mobile devices and two columns for medium screen sizes and up. When two columns have still been used for mobile devices, the font size has been slightly reduced so that text is not so cramped, whilst still being legible.
 - The navbar links are disabled for the page that the user is currently on.
-- The [menu](https://andrewsui.github.io/tgc07-project01/menu.html) page features an infinitely looping image slideshow for each section of the bakery's menu. The lines joining the menu items and their respective prices are reponsive, changing in length automatically for different screen sizes.
+- The [menu](https://andrewsui.github.io/tgc07-project01/menu.html) page features an infinitely looping image slideshow for each section of the bakery's menu. The lines joining the menu items and their respective prices are responsive, changing in length automatically for different screen sizes.
 - The [find us](https://andrewsui.github.io/tgc07-project01/find-us.html) page includes an embedded map using [Google Maps](https://www.google.com/maps/place/Ireland+Yard,+London,+UK/@51.512778,-0.10179,19z/).
 - The [about](https://andrewsui.github.io/tgc07-project01/about.html) page includes an embedded video from [YouTube](https://www.youtube.com/watch?v=73oENaDiq04).
 - The [contact](https://andrewsui.github.io/tgc07-project01/contact.html) page requires all fields to be filled in before the submit button can be activated. The submit button redirects to a [separate web page](https://andrewsui.github.io/tgc07-project01/contact-submit.html) to thank the user for their message.
@@ -97,7 +97,7 @@ All testing was done manually. The following tests were performed:
   - All navbar links were checked to verify they linked to the correct pages and that they were disabled for the current page the user was on.
 
 6. Telephone number for the bakery on all pages:
-  - Verified that the link successfuly redirected phone call app on mobile device.
+  - Verified that the link successfully redirected phone call app on mobile device.
 
 7. Social media links on all pages:
   - Verified that the facebook and instagram links open in new tabs on PCs.

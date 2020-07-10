@@ -102,6 +102,8 @@ All testing was done manually. The following tests were performed:
 7. Social media links on all pages:
   - Verified that the facebook and instagram links open in new tabs on PCs.
 
+8. W3C [Markup Validation Service](https://validator.w3.org/) and [CSS Validation Service](https://jigsaw.w3.org/css-validator/) were used to check the project's HTML and CSS code respoectively. HTML warnings were identified by the validator, but these were in relation to section HTML parent tags not having child headers within, and the flow of the websites did not require headers in these sections. CSS errors were flagged by the validator, but these were in relation to colour variables used in the CSS files. This appears to be an error with the validator service, because after manually testing the project on numerous devices, I did not encounter any bugs pertaining to the use of CSS colour variables.
+
 To check compatibility and the layout's responsiveness the website was tested using different browsers (Chrome, FireFox and Safari) across a range of devices (Android and iOS mobile and tablet devices, and Windows and Ubuntu PCs.
 
 ## Deployment

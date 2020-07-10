@@ -3,7 +3,7 @@
 ##  User Centric Frontend Development Milestone Project
 A live demo of this project can be viewed [here](https://andrewsui.github.io/tgc07-project01/index.html).
 
-
+![FictionalBakery home page screenshot](screenshots/md-devices/FictionalBakery-Home-md.png "FictionalBakery home page screenshot")
 [This](https://andrewsui.github.io/tgc07-project01/index.html) is a website, created for an imaginary artisanal bakery ("FictionalBakery"), to serve as a main reference point for the general public to find out important information about the business and its products. The website consists of [home](https://andrewsui.github.io/tgc07-project01/index.html), [menu](https://andrewsui.github.io/tgc07-project01/menu.html), [find us](https://andrewsui.github.io/tgc07-project01/find-us.html), [about](https://andrewsui.github.io/tgc07-project01/about.html) and [contact](https://andrewsui.github.io/tgc07-project01/contact.html) pages.
 
 ## UX

@@ -3,7 +3,7 @@
 ##  User Centric Frontend Development Milestone Project
 A live demo of this project can be viewed [here](https://andrewsui.github.io/tgc07-project01/index.html).
 
-[This](https://andrewsui.github.io/tgc07-project01/index.html) is a website, created for an imaginary artisanal bakery ("FictionalBakery"), to serve as a main reference point for the general public to find out important information about the business and its products. The website consists of [home](https://andrewsui.github.io/tgc07-project01/index.html), [menu](https://andrewsui.github.io/tgc07-project01/menu.html), [find us](https://andrewsui.github.io/tgc07-project01/find-us.html), [about](https://andrewsui.github.io/tgc07-project01/about.html) and [contact](https://andrewsui.github.io/tgc07-project01/contact.html) pages.
+This project is a website, created for an imaginary artisanal bakery ("FictionalBakery"), to serve as a main reference point for the general public to find out important information about the business and its products. The website consists of [home](https://andrewsui.github.io/tgc07-project01/index.html), [menu](https://andrewsui.github.io/tgc07-project01/menu.html), [find us](https://andrewsui.github.io/tgc07-project01/find-us.html), [about](https://andrewsui.github.io/tgc07-project01/about.html) and [contact](https://andrewsui.github.io/tgc07-project01/contact.html) pages.
 
 ## UX
 
@@ -102,7 +102,7 @@ All testing was done manually. The following tests were performed:
 7. Social media links on all pages:
   - Verified that the facebook and instagram links open in new tabs on PCs.
 
-8. W3C [Markup Validation Service](https://validator.w3.org/) and [CSS Validation Service](https://jigsaw.w3.org/css-validator/) were used to check the project's HTML and CSS code respoectively. HTML warnings were identified by the validator, but these were in relation to section HTML parent tags not having child headers within, and the flow of the websites did not require headers in these sections. CSS errors were flagged by the validator, but these were in relation to colour variables used in the CSS files. This appears to be an error with the validator service, because after manually testing the project on numerous devices, I did not encounter any bugs pertaining to the use of CSS colour variables.
+8. W3C [Markup Validation Service](https://validator.w3.org/) and [CSS Validation Service](https://jigsaw.w3.org/css-validator/) were used to check the project's HTML and CSS code respectively. HTML warnings were identified by the validator, but these were in relation to section HTML parent tags not having child headers within, and the flow of the websites did not require headers in these sections. CSS errors were flagged by the validator, but these were in relation to colour variables used in the CSS files. This appears to be an error with the validator service, because after manually testing the project on numerous devices, I did not encounter any bugs pertaining to the use of CSS colour variables.
 
 To check compatibility and the layout's responsiveness the website was tested using different browsers (Chrome, FireFox and Safari) across a range of devices (Android and iOS mobile and tablet devices, and Windows and Ubuntu PCs.
 
@@ -124,7 +124,7 @@ Code for the project was deployed in the following manner:
 - The photos used in this project were obtained from [Unsplash](https://unsplash.com/)
 - The bakery's logo design used in this project was created using [FreeLogoDesign](https://www.freelogodesign.org/)
 - The facebook and instagram logos used in this project were obtained from [Iconfinder](https://www.iconfinder.com/)
-- The embedded map on the [find us](https://andrewsui.github.io/tgc07-project01/find-us.html) page linked using [Google Maps](https://www.google.com/maps/place/Ireland+Yard,+London,+UK/@51.512778,-0.10179,19z/)
+- The embedded map on the [find us](https://andrewsui.github.io/tgc07-project01/find-us.html) page uses [Google Maps](https://www.google.com/maps/place/Ireland+Yard,+London,+UK/@51.512778,-0.10179,19z/)
 - The video on the [about](https://andrewsui.github.io/tgc07-project01/about.html) page was linked from [PARAGRAPHIC's YouTube channel](https://www.youtube.com/channel/UCQtzPvhc-8PQrmxcZUVdI7Q), with the original video being hosted [here](https://www.youtube.com/watch?v=73oENaDiq04).
 
 ### Acknowledgements

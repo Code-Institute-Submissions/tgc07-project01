@@ -45,7 +45,7 @@ Wireframes created during the design process can be found here: [mobile](https:/
 
 - HTML
 - CSS
-- [Bootstrap v4.5](https://getbootstrap.com/)
+- [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 ## Testing
 

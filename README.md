@@ -81,7 +81,7 @@ The chosen colour scheme uses relaxing and soothing colours inspired by nature, 
 
 ### Features Left to Implement
 - Change home page main image to one where baker is not wearing any accessories.
-- Change menu page images to ones with lighter backgrounds to give the page a brighter look.
+- Change menu page images that have dark backgrounds to ones with lighter backgrounds to give the page a brighter look.
 - Contact page submit button should send an email to business' email address.
 - Contact form's field validation should be more robust.
 - Contact page submit button currently redirects to a separate page to thank user for submitting a message, but a modal might be a better user experience.

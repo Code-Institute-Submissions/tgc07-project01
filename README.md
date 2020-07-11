@@ -3,15 +3,13 @@
 ##  User Centric Frontend Development Milestone Project
 A live demo of this project can be viewed [here](https://andrewsui.github.io/tgc07-project01/index.html).
 
-This project is a website, created for an imaginary artisanal bakery ("FictionalBakery"), to serve as a main reference point for the general public to find out important information about the business and its products. The website consists of [home](https://andrewsui.github.io/tgc07-project01/index.html), [menu](https://andrewsui.github.io/tgc07-project01/menu.html), [find us](https://andrewsui.github.io/tgc07-project01/find-us.html), [about](https://andrewsui.github.io/tgc07-project01/about.html) and [contact](https://andrewsui.github.io/tgc07-project01/contact.html) pages.
+This project is a website created for an imaginary artisanal bakery ("FictionalBakery"), to serve as a main reference point for the general public to find out important information about the business and its products. The website consists of [home](https://andrewsui.github.io/tgc07-project01/index.html), [menu](https://andrewsui.github.io/tgc07-project01/menu.html), [find us](https://andrewsui.github.io/tgc07-project01/find-us.html), [about](https://andrewsui.github.io/tgc07-project01/about.html) and [contact](https://andrewsui.github.io/tgc07-project01/contact.html) pages.
 
 ## UX
 
-Wireframes created during the design process can be found here: [mobile](https://github.com/andrewsui/tgc07-project01/blob/master/wireframe/wireframe-mobile.pdf) / [desktop](https://github.com/andrewsui/tgc07-project01/blob/master/wireframe/wireframe-desktop.pdf).
-
-### User Stories
+### Strategy - User Stories
 - Customers would want to be able to easily access key information about the bakery such as menu, location, opening hours, raison d’être and contact form. The bakery's address, telephone number and opening hours can be found on every page, so that it extremely easy for potential customers to find this information.
-- The colour scheme uses relaxing and soothing colours to produce a natural feel and tone for the website and the fonts used look handwritten. Together, the colour scheme and typography embody the business owners' goals for the bakery: to make the best bread and pastries they can, with as few ingredients as possible. The website serves as an information resource that does not need to change on a frequent basis. For more frequent customer engagement, the bakery's social media accounts would mainly be used instead, as such there are also social media links on every page. Ultimately, the bakery owners' main goal of the website is to entice customers to buy its products.
+- The website serves as an information resource that does not need to change on a frequent basis. For more frequent customer engagement, the bakery's social media accounts would mainly be used instead, as such there are also social media links on every page. Ultimately, the bakery owners' main goal of the website is to entice customers to buy its products.
 
 #### Home Page
 ![FictionalBakery home page md screenshot 1](screenshots/md-devices/FictionalBakery-Home-md.png "FictionalBakery home page md screenshot 1")
@@ -50,6 +48,25 @@ Wireframes created during the design process can be found here: [mobile](https:/
 ![FictionalBakery contact-submit xs screenshot 1](screenshots/xs-devices/FictionalBakery-ContactSubmit-xs.jpg "FictionalBakery contact-submit xs screenshot 1")
 - [Contact Us page](https://andrewsui.github.io/tgc07-project01/contact.html) - Customers or potential employees may wish to contact the business owners, therefore this contact form is an easy way of accomplishing this.
 - [Contact Us page](https://andrewsui.github.io/tgc07-project01/contact.html) - The business owners may not wish to publicly display their email address, so this contact form would be a simple yet easy way for the public to contact the business owners.
+
+### Scope
+
+Content requirements: Text, images, menu items, menu prices, baking process video, map of bakery's location.
+Functional specification: Video linked from YouTube and playable on demand by user. Map linked from Google MAps and should be interactive.
+
+### Structure
+
+The bakery's website will consist of a maximum of 5 or 6 pages, so a simple tabbed structure with all pages being accessible via a navbar is likely to be most appropriate.
+
+Each page's layout will use either a Z-pattern or split-screen design pattern.
+
+### Skeleton
+
+Wireframes created during the design process can be found here: [mobile](wireframe/wireframe-mobile.pdf) / [desktop](wireframe/wireframe-desktop.pdf).
+
+### Surface
+
+The chosen colour scheme uses relaxing and soothing colours inspired by nature, creating a welcoming feel and tone for the website. The handwritten typography, together with the colour scheme, embody the business owners' goals for the bakery: to make the best bread and pastries they can, with as few ingredients as possible. 
 
 ## Features
 

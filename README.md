@@ -96,13 +96,13 @@ The chosen colour scheme uses relaxing and soothing colours inspired by nature, 
 
 All testing was done manually. The following tests were performed:
 
-1. [Menu](https://andrewsui.github.io/tgc07-project01/menu.html):
+1. [Menu](https://andrewsui.github.io/tgc07-project01/menu.html) page:
   - Verified image slideshow keeps looping for as long as website was left open and displayed as expected.
 
-2. [Find us](https://andrewsui.github.io/tgc07-project01/find-us.html):
+2. [Find us](https://andrewsui.github.io/tgc07-project01/find-us.html) page:
   - Verified that embedded map was able to be interacted with and the "view larger map" link successfully opened Google Maps in a new tab.
 
-3. [About](https://andrewsui.github.io/tgc07-project01/about.html):
+3. [About](https://andrewsui.github.io/tgc07-project01/about.html) page:
   - Verified that embedded YouTube video played as expected.
 
 4. [Contact](https://andrewsui.github.io/tgc07-project01/contact.html) page:
@@ -117,11 +117,11 @@ All testing was done manually. The following tests were performed:
   - Verified that the link successfully redirected phone call app on mobile device.
 
 7. Social media links on all pages:
-  - Verified that the facebook and instagram links open in new tabs on PCs.
+  - Verified that the facebook and instagram links either opened in new tabs or the third party app.
 
 8. W3C [Markup Validation Service](https://validator.w3.org/) and [CSS Validation Service](https://jigsaw.w3.org/css-validator/) were used to check the project's HTML and CSS code respectively. HTML warnings to add identifying headings to HTML sections were identified by the validator, but the flow of website works better without headers in these sections. CSS errors were flagged by the validator, but these were either in relation to Bootstrap or colour variables used in the CSS files. The CSS colour variables errors appear to be unnecessarily flagged by the validator service, because after manually testing the project on numerous devices, I did not encounter any bugs pertaining to the use of CSS colour variables.
 
-To check compatibility and the layout's responsiveness the website was tested using different browsers (Chrome, FireFox and Safari) across a range of devices (Android and iOS mobile and tablet devices, and Windows and Ubuntu PCs.
+To check compatibility and the layout's responsiveness the website was tested using different browsers (Chrome, FireFox and Safari) across a range of devices (Android and iOS mobile and tablet devices, and Windows and Ubuntu based PCs.
 
 ## Deployment
 

@@ -52,7 +52,7 @@ This project is a website created for an imaginary artisanal bakery ("FictionalB
 ### Scope
 
 Content requirements: Text, images, menu items, menu prices, baking process video, map of bakery's location.
-Functional specification: Video linked from YouTube and playable on demand by user. Map linked from Google MAps and should be interactive.
+Functional specification: Video linked from YouTube and playable on demand by user. Map linked from Google Maps and should be interactive.
 
 ### Structure
 
